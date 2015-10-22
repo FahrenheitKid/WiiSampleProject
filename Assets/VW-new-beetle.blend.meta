@@ -1,0 +1,106 @@
+fileFormatVersion: 2
+guid: f58ec41269d984ca59052b713147ce5e
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    4300000: Beetle_tire_RR
+    4300002: Beetle_tire_RL
+    4300004: Beetle_tire_FR
+    4300006: Beetle_tire_FL
+    4300008: Beetle_taillights
+    4300010: Beetle_bottom
+    4300012: Beetle_wiperstalk_L
+    4300014: Beetle_wiperblade_L
+    4300016: Beetle_wiperstalk_R
+    4300018: Beetle_wiperblade_R
+    4300020: Beetle_license_F
+    4300022: Beetle_license_R
+    4300024: Beetle_reverse_ligh
+    4300026: Beetle_trunk
+    4300028: Beetle_roof
+    4300030: Beetle_parking_ligh
+    4300032: Beetle_headlights
+    4300034: Beetle_turn_signals
+    4300036: Beetle_windows_R
+    4300038: Beetle_door_posts
+    4300040: Beetle_windows_door
+    4300042: Beetle_doors
+    4300044: Beetle_mirrors
+    4300046: Beetle_window_R
+    4300048: Beetle_gasket_F
+    4300050: Beetle_bumper_R
+    4300052: Beetle_fenders_R
+    4300054: Beetle_gasket_R
+    4300056: Beetle_windshield
+    4300058: Beetle_gaskets_R
+    4300060: Beetle_gaskets_door
+    4300062: Beetle_hood
+    4300064: Beetle_hood_vents
+    4300066: Beetle_bumper_F
+    4300068: Beetle_fenders_F
+    4300070: Beetle_runners
+    4300072: beetle_driving_lts
+  materials:
+    importMaterials: 1
+    materialName: 3
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
